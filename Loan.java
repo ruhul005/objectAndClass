@@ -2,7 +2,7 @@ package objectAndClass;
 
 public class Loan {
 
-		
+	//declaring instance variable	
 	private double annualInterestRate;
 	private int numbersOfYears;
 	private double loanAmount;
